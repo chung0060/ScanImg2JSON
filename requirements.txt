@@ -1,0 +1,7 @@
+# requirements.txt
+# Core dependency (for image processing)
+pillow>=10.0.0
+
+# Optional: Tkinter is used for the GUI.
+# Most Python distributions already include it, so you usually don't need to install it separately.
+# tkinter
