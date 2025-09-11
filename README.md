@@ -65,6 +65,8 @@ python photo_json.py --scan /path/to/your/images
 ```
 
 ---
+## Acknowledgements
+This project uses [Pillow](https://python-pillow.org/) (MIT License).
 
 ## License
 
